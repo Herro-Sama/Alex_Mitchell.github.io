@@ -1,4 +1,11 @@
-## Alexander Mitchell
+# Alexander Mitchell
+
+## About Me
+
+My name is Alexander, though I usually just go with Alex. I'm a 20 year old programmer studying Computing at Falmouth University.
+
+
+## Portfolio
 
 ### Nebula Knights
 
