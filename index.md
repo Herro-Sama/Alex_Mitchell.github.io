@@ -2,9 +2,18 @@
 
 ### Nebula Knights
 
-![Image](https://img.itch.zone/aW1hZ2UvMTM1NjU2LzYyMjYzNi5qcGc=/original/zOP8jY.jpg)
+![Nebula_Knights](https://img.itch.zone/aW1hZ2UvMTM1NjU2LzYyMjYzNi5qcGc=/original/zOP8jY.jpg)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Nebula Knights is a student project created in Unreal Engine 4. It is a 1-4 person couch Co-op game featuring hack and slash gameplay elements. During this project I spent time working primarily on the UI elements and making sure they were functional.
+
+[Link to game on Itch.io](https://basiliskstudios.itch.io/nebula-knights)
+
+### Hyper Heatwave Runner
+
+During the 2017 Global Game Jam I took part working with a small team to develop an endless runner style game. This game was made in Unity and was one of my first project made within Unity.
+
+[Link to Github Repo]
+
 
 ```markdown
 Syntax highlighted code block
