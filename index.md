@@ -12,7 +12,7 @@ Nebula Knights is a student project created in Unreal Engine 4. It is a 1-4 pers
 
 During the 2017 Global Game Jam I took part working with a small team to develop an endless runner style game. This game was made in Unity and was one of my first project made within Unity.
 
-[Link to Github Repo]
+[Link to Github Repo](https://github.com/Herro-Sama/Freelancer_Runner)
 
 
 ```markdown
