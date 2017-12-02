@@ -29,6 +29,7 @@ During the 2017 Global Game Jam I took part working with a small team to develop
 
 Cookoo is a chaotic asymetric co-op game, where one player is the driver of a food delivery truck and the other is the cook in the back. This is project is currently being developed but you can keep up to date with the progress [HERE.](https://www.facebook.com/CookooGame/) 
 
+![Cookoo Image](https://github.com/Herro-Sama/herro-sama.github.io/blob/master/CookooConceptArt.jpg?raw=true)
 
 ### Essay Papers
 
