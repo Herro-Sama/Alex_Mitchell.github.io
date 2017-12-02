@@ -27,8 +27,13 @@ During the 2017 Global Game Jam I took part working with a small team to develop
 
 ### Cookoo
 
-
+Cookoo is a chaotic asymetric co-op game, where one player is the driver of a food delivery truck and the other is the cook in the back. This is project is currently being developed but you can keep up to date with the progress [HERE.](https://www.facebook.com/CookooGame/) 
 
 
 ### Essay Papers
 
+[Can Video games be tailored to their User by procedurally creating challenging emergent gameplay and narrative experiences](https://github.com/Herro-Sama/comp130-journal/blob/master/ResearchJournal.pdf)
+
+[Video Game Design and implementation for a low mobility user compared to web design](https://github.com/Herro-Sama/comp160-engineering/blob/master/essay.pdf)
+
+[The impacts of Agile Methodologies on the motivation within a team across a projects](https://github.com/Herro-Sama/comp150-agile/blob/master/essay.pdf)
